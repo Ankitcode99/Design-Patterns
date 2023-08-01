@@ -1,6 +1,6 @@
 package org.ankitcode99.abstractFactoryPattern.universityFactory;
 
-import org.example.abstractFactoryPattern.collegeIdFactory.CollegeIdGenerator;
+import org.ankitcode99.abstractFactoryPattern.collegeIdFactory.CollegeIdGenerator;
 
 public abstract class UniversityFactory {
 

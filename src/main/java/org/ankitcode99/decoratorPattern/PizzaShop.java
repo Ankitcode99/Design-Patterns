@@ -1,8 +1,8 @@
 package org.ankitcode99.decoratorPattern;
 
-import org.example.decoratorPattern.decorator.ExtraCheese;
-import org.example.decoratorPattern.decorator.Mushroom;
-import org.example.decoratorPattern.decorator.Onion;
+import org.ankitcode99.decoratorPattern.decorator.ExtraCheese;
+import org.ankitcode99.decoratorPattern.decorator.Mushroom;
+import org.ankitcode99.decoratorPattern.decorator.Onion;
 
 public class PizzaShop {
     public static void main(String[] args) {

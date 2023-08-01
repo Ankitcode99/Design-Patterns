@@ -1,7 +1,7 @@
 package org.ankitcode99.abstractFactoryPattern;
 
-import org.example.abstractFactoryPattern.collegeIdFactory.CollegeIdGenerator;
-import org.example.abstractFactoryPattern.universityFactory.UniversityFactory;
+import org.ankitcode99.abstractFactoryPattern.collegeIdFactory.CollegeIdGenerator;
+import org.ankitcode99.abstractFactoryPattern.universityFactory.UniversityFactory;
 
 public class CollegeAllocator {
     public static void main(String[] args) {

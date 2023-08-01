@@ -1,6 +1,6 @@
 package org.ankitcode99.strategyPattern.goodExample;
 
-import org.example.strategyPattern.goodExample.driveStrategy.DriveMode;
+import org.ankitcode99.strategyPattern.goodExample.driveStrategy.DriveMode;
 
 public class Vehicle {
 

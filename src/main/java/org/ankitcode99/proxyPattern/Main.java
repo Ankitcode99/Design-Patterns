@@ -1,6 +1,6 @@
 package org.ankitcode99.proxyPattern;
 
-public class Main {
+public class  Main {
     public static void main(String[] args) {
         try{
             EmployeeDao employeeDao = new EmployeeProxy();

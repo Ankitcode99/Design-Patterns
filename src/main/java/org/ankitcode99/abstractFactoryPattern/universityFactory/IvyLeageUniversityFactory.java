@@ -1,9 +1,9 @@
 package org.ankitcode99.abstractFactoryPattern.universityFactory;
 
-import org.example.abstractFactoryPattern.collegeIdFactory.CollegeIdGenerator;
-import org.example.abstractFactoryPattern.collegeIdFactory.ivyLeague.HarvardCollegeIdGenerator;
-import org.example.abstractFactoryPattern.collegeIdFactory.ivyLeague.MITCollegeIdGenerator;
-import org.example.abstractFactoryPattern.collegeIdFactory.ivyLeague.StanfordCollegeIdGenerator;
+import org.ankitcode99.abstractFactoryPattern.collegeIdFactory.CollegeIdGenerator;
+import org.ankitcode99.abstractFactoryPattern.collegeIdFactory.ivyLeague.HarvardCollegeIdGenerator;
+import org.ankitcode99.abstractFactoryPattern.collegeIdFactory.ivyLeague.MITCollegeIdGenerator;
+import org.ankitcode99.abstractFactoryPattern.collegeIdFactory.ivyLeague.StanfordCollegeIdGenerator;
 
 public class IvyLeageUniversityFactory extends UniversityFactory {
     @Override

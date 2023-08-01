@@ -1,6 +1,6 @@
 package org.ankitcode99.abstractFactoryPattern.collegeIdFactory.publicUniversity;
 
-import org.example.abstractFactoryPattern.collegeIdFactory.CollegeIdGenerator;
+import org.ankitcode99.abstractFactoryPattern.collegeIdFactory.CollegeIdGenerator;
 
 public class SanDiegoCollegeIdGenerator implements CollegeIdGenerator {
     @Override

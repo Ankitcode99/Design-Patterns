@@ -1,6 +1,6 @@
 package org.ankitcode99.observerPattern.observable;
 
-import org.example.observerPattern.observer.ObserverInterface;
+import org.ankitcode99.observerPattern.observer.ObserverInterface;
 
 public interface ObservableInterface {
     public void subscribe(Item item, ObserverInterface observerInterface);

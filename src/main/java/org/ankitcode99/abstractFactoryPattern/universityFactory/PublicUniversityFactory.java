@@ -1,9 +1,9 @@
 package org.ankitcode99.abstractFactoryPattern.universityFactory;
 
-import org.example.abstractFactoryPattern.collegeIdFactory.CollegeIdGenerator;
-import org.example.abstractFactoryPattern.collegeIdFactory.publicUniversity.SanDiegoCollegeIdGenerator;
-import org.example.abstractFactoryPattern.collegeIdFactory.publicUniversity.TexasCollegeIdGenerator;
-import org.example.abstractFactoryPattern.collegeIdFactory.publicUniversity.UCLACollegeIdGenerator;
+import org.ankitcode99.abstractFactoryPattern.collegeIdFactory.CollegeIdGenerator;
+import org.ankitcode99.abstractFactoryPattern.collegeIdFactory.publicUniversity.SanDiegoCollegeIdGenerator;
+import org.ankitcode99.abstractFactoryPattern.collegeIdFactory.publicUniversity.TexasCollegeIdGenerator;
+import org.ankitcode99.abstractFactoryPattern.collegeIdFactory.publicUniversity.UCLACollegeIdGenerator;
 
 public class PublicUniversityFactory extends UniversityFactory {
 

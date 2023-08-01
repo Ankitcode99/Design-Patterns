@@ -1,6 +1,6 @@
 package org.ankitcode99.abstractFactoryPattern.collegeIdFactory.ivyLeague;
 
-import org.example.abstractFactoryPattern.collegeIdFactory.CollegeIdGenerator;
+import org.ankitcode99.abstractFactoryPattern.collegeIdFactory.CollegeIdGenerator;
 
 public class StanfordCollegeIdGenerator implements CollegeIdGenerator {
 
