@@ -5,37 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e5c8a76-2bcf-4abc-8e34-1019a45c6875" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/abstractFactoryPattern/CollegeAllocator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/abstractFactoryPattern/CollegeAllocator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/abstractFactoryPattern/collegeIdFactory/ivyLeague/HarvardCollegeIdGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/abstractFactoryPattern/collegeIdFactory/ivyLeague/HarvardCollegeIdGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/abstractFactoryPattern/collegeIdFactory/ivyLeague/MITCollegeIdGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/abstractFactoryPattern/collegeIdFactory/ivyLeague/MITCollegeIdGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/abstractFactoryPattern/collegeIdFactory/ivyLeague/StanfordCollegeIdGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/abstractFactoryPattern/collegeIdFactory/ivyLeague/StanfordCollegeIdGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/abstractFactoryPattern/collegeIdFactory/publicUniversity/SanDiegoCollegeIdGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/abstractFactoryPattern/collegeIdFactory/publicUniversity/SanDiegoCollegeIdGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/abstractFactoryPattern/collegeIdFactory/publicUniversity/TexasCollegeIdGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/abstractFactoryPattern/collegeIdFactory/publicUniversity/TexasCollegeIdGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/abstractFactoryPattern/collegeIdFactory/publicUniversity/UCLACollegeIdGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/abstractFactoryPattern/collegeIdFactory/publicUniversity/UCLACollegeIdGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/abstractFactoryPattern/universityFactory/IvyLeageUniversityFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/abstractFactoryPattern/universityFactory/IvyLeageUniversityFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/abstractFactoryPattern/universityFactory/PublicUniversityFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/abstractFactoryPattern/universityFactory/PublicUniversityFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/abstractFactoryPattern/universityFactory/UniversityFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/abstractFactoryPattern/universityFactory/UniversityFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/applications/HashMapImplementation/APHashMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/decoratorPattern/PizzaShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/decoratorPattern/PizzaShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/decoratorPattern/decorator/ExtraCheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/decoratorPattern/decorator/ExtraCheese.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/decoratorPattern/decorator/Mushroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/decoratorPattern/decorator/Mushroom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/decoratorPattern/decorator/Onion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/decoratorPattern/decorator/Onion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/decoratorPattern/decorator/Tomato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/decoratorPattern/decorator/Tomato.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/decoratorPattern/decorator/ToppingsDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/decoratorPattern/decorator/ToppingsDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/observerPattern/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/observerPattern/Store.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/observerPattern/observable/ObservableImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/observerPattern/observable/ObservableImplementation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/observerPattern/observable/ObservableInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/observerPattern/observable/ObservableInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/proxyPattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/proxyPattern/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/strategyPattern/goodExample/ATV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/strategyPattern/goodExample/ATV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/strategyPattern/goodExample/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/strategyPattern/goodExample/Bus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/strategyPattern/goodExample/SportsCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/strategyPattern/goodExample/SportsCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/strategyPattern/goodExample/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/strategyPattern/goodExample/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/strategyPattern/goodExample/driveStrategy/HuvDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/strategyPattern/goodExample/driveStrategy/HuvDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/strategyPattern/goodExample/driveStrategy/NormalDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/strategyPattern/goodExample/driveStrategy/NormalDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/strategyPattern/goodExample/driveStrategy/SpecialDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/strategyPattern/goodExample/driveStrategy/SpecialDrive.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -78,7 +49,7 @@
       <recent name="C:\Users\Ankit\IdeaProjects\Design-Patterns\src\main\java\org\ankitcode99" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ReimbursementDriver">
     <configuration name="CompositeDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.ankitcode99.compositePattern.CompositeDriver" />
       <module name="Design-Patterns" />
@@ -92,8 +63,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReimbursementDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ankitcode99.adapterPattern.ReimbursementDriver" />
+      <module name="Design-Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ankitcode99.adapterPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReimbursementDriver" />
         <item itemvalue="Application.CompositeDriver" />
       </list>
     </recent_temporary>
