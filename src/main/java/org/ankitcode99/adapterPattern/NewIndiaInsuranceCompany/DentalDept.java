@@ -1,4 +1,4 @@
-package org.ankitcode99.adapterPattern.InsuranceCompany;
+package org.ankitcode99.adapterPattern.NewIndiaInsuranceCompany;
 
 import org.ankitcode99.adapterPattern.BillType;
 import org.ankitcode99.adapterPattern.Receipt;
@@ -32,8 +32,6 @@ public class DentalDept implements NewIndiaInsurance{
                     continue;
                 }
                 totalAmount += currentReceipt.getBillAmount();
-            }else{
-                continue;
             }
         }
 

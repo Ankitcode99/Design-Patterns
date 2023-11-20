@@ -2,8 +2,8 @@ package org.ankitcode99.adapterPattern;
 
 import org.ankitcode99.adapterPattern.Adapter.Medibuddy;
 import org.ankitcode99.adapterPattern.Adapter.MedibuddyImplementation;
-import org.ankitcode99.adapterPattern.InsuranceCompany.DentalDept;
-import org.ankitcode99.adapterPattern.InsuranceCompany.OpticalDept;
+import org.ankitcode99.adapterPattern.NewIndiaInsuranceCompany.DentalDept;
+import org.ankitcode99.adapterPattern.NewIndiaInsuranceCompany.OpticalDept;
 
 public class ReimbursementDriver {
     public static void main(String[] args) {
@@ -25,7 +25,8 @@ public class ReimbursementDriver {
     }
 
     private static void printReimbursedAmount(double reimbursementAmount) {
+        System.out.println("==============================================================\n");
         System.out.println("You are eligible for a reimbursement of INR. "+reimbursementAmount);
-        System.out.println("\n\n==============================================================\n\n");
+        System.out.println("\n==============================================================\n\n");
     }
 }

@@ -11,7 +11,7 @@ public class Receipt {
     @Getter @Setter
     double billAmount;
 
-    @Getter @Setter
+    @Setter
     BillType billType;
 
     @Getter @Setter
@@ -22,5 +22,17 @@ public class Receipt {
         this.billType = billType;
         this.billAmount = billAmount;
         this.hospital = hospital;
+    }
+
+    public BillType getBillType() {
+        return this.billType;
+    }
+
+    public double getBillAmount() {
+        return this.billAmount;
+    }
+
+    public String getHospital() {
+        return this.hospital;
     }
 }

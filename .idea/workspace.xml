@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e5c8a76-2bcf-4abc-8e34-1019a45c6875" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/builderPattern/oldImplementation/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/builderPattern/oldImplementation/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/adapterPattern/Adapter/MedibuddyImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/adapterPattern/Adapter/MedibuddyImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/adapterPattern/InsuranceCompany/DentalDept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/adapterPattern/NewIndiaInsuranceCompany/DentalDept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/adapterPattern/InsuranceCompany/NewIndiaInsurance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/adapterPattern/NewIndiaInsuranceCompany/NewIndiaInsurance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/adapterPattern/InsuranceCompany/OpticalDept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/adapterPattern/NewIndiaInsuranceCompany/OpticalDept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/adapterPattern/InsuranceCompany/OrthoDept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/adapterPattern/NewIndiaInsuranceCompany/OrthoDept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/adapterPattern/Receipt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/adapterPattern/Receipt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ankitcode99/adapterPattern/ReimbursementDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ankitcode99/adapterPattern/ReimbursementDriver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +24,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -27,6 +35,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2SeV41DcCu2IXTLovocj0O3Ep7S" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -41,7 +52,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Solution/Low-Level-Design-Implementation&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/TeraBoxDownload&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -49,7 +60,7 @@
       <recent name="C:\Users\Ankit\IdeaProjects\Design-Patterns\src\main\java\org\ankitcode99" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.ReimbursementDriver">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.ankitcode99.builderPattern.oldImplementation.Client" />
       <module name="Design-Patterns" />
@@ -91,8 +102,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client" />
         <item itemvalue="Application.ReimbursementDriver" />
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.CompositeDriver" />
       </list>
     </recent_temporary>

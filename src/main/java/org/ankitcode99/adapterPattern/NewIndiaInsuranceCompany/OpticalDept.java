@@ -1,21 +1,21 @@
-package org.ankitcode99.adapterPattern.InsuranceCompany;
+package org.ankitcode99.adapterPattern.NewIndiaInsuranceCompany;
 
 import org.ankitcode99.adapterPattern.BillType;
 import org.ankitcode99.adapterPattern.Receipt;
 
-/**
- * The ortho-dept  reimburses both pharmacy and consultation
- * */
-public class OrthoDept implements NewIndiaInsurance{
+/***
+ * The optical dept reimburses only pharmacy bill
+ *
+ */
+public class OpticalDept implements NewIndiaInsurance{
     @Override
     public double computeReimbursableAmount(Receipt... receipts) {
         double totalAmount=0;
         for(Receipt currentReceipt: receipts){
-            if(currentReceipt.getBillType().equals(BillType.PHARMACY) ||
-                    currentReceipt.getBillType().equals(BillType.CONSULTATION)){
+            if(currentReceipt.getBillType().equals(BillType.PHARMACY)){
                 totalAmount += currentReceipt.getBillAmount();
             }else{
-                continue;
+                System.out.println("Only PHARMACY bills are covered under Optical Reimbursements");
             }
         }
 
