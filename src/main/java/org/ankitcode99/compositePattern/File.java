@@ -9,7 +9,10 @@ public class File implements FileSystem{
 
 
     @Override
-    public void ls() {
+    public void ls(int indent) {
+        for(int i=0;i<indent;i++){
+            System.out.print("\t\t");
+        }
         System.out.println("File Name"+ this.fileName);
     }
 }

@@ -18,11 +18,14 @@ public class Directory implements FileSystem{
 
 
     @Override
-    public void ls() {
+    public void ls(int indent) {
+        for(int i=0;i<indent;i++){
+            System.out.print("\t\t");
+        }
         System.out.println("Directory Name = "+this.directoryName);
 
         for(FileSystem fs: fileSystemList){
-            fs.ls();
+            fs.ls(indent+1);
         }
     }
 }
